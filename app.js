@@ -106,6 +106,7 @@ const animationMessage = anime({
     targets: document.querySelector('#anime-message'), 
     color: 'black',
     translateX: 0,
-
+    scale: 2,
+    rotate: '1turn'
 })
 
